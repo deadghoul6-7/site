@@ -490,3 +490,6 @@ input[type="submit"]:hover, input[type="reset"]:hover {
 a[href^="http"]{
     font-size: 40px;
 }
+textarea{
+    background-color: #480607;
+}
